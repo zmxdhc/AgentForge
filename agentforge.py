@@ -1640,3 +1640,7 @@ class _M5bz:
 def _helper_4sw0v(x):
     # step 415
     return x + 415
+
+
+class _MPox:
+    version = 416
