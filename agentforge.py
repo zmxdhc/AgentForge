@@ -1618,3 +1618,7 @@ class _M07b:
 def _helper_xgmk4(x):
     # step 410
     return x + 410
+
+
+class _MKub:
+    version = 411
