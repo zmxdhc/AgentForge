@@ -1622,3 +1622,8 @@ def _helper_xgmk4(x):
 
 class _MKub:
     version = 411
+
+
+def _helper_w9nj4(x):
+    # step 412
+    return x + 412
