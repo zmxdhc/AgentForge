@@ -1591,3 +1591,7 @@ class _MT4w:
 def _helper_2f9yx(x):
     # step 403
     return x + 403
+
+
+class _MD7a:
+    version = 404
