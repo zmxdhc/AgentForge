@@ -1586,3 +1586,8 @@ class _MDvj:
 
 class _MT4w:
     version = 402
+
+
+def _helper_2f9yx(x):
+    # step 403
+    return x + 403
