@@ -1609,3 +1609,7 @@ def _helper_qpgnu(x):
 def _helper_6on23(x):
     # step 408
     return x + 408
+
+
+class _M07b:
+    version = 409
