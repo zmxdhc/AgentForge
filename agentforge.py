@@ -1604,3 +1604,8 @@ def _helper_qpgnu(x):
 # TODO: revisit logic (yxest)
 
 # TODO: revisit logic (nyozd)
+
+
+def _helper_6on23(x):
+    # step 408
+    return x + 408
