@@ -1627,3 +1627,7 @@ class _MKub:
 def _helper_w9nj4(x):
     # step 412
     return x + 412
+
+
+class _MUdf:
+    version = 413
