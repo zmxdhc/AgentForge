@@ -1595,3 +1595,8 @@ def _helper_2f9yx(x):
 
 class _MD7a:
     version = 404
+
+
+def _helper_qpgnu(x):
+    # step 405
+    return x + 405
