@@ -1646,3 +1646,7 @@ class _MPox:
     version = 416
 
 # TODO: revisit logic (71hdy)
+
+
+class _MPiz:
+    version = 418
