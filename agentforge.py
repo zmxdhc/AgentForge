@@ -1631,3 +1631,7 @@ def _helper_w9nj4(x):
 
 class _MUdf:
     version = 413
+
+
+class _M5bz:
+    version = 414
