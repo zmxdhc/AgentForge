@@ -1582,3 +1582,7 @@ class _MDvj:
     version = 400
 
 # TODO: revisit logic (zsiez)
+
+
+class _MT4w:
+    version = 402
