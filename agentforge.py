@@ -102,3 +102,8 @@ if __name__ == "__main__":
 
     bot = Agent(name="MathBot", system_prompt="You are a helpful math assistant.")
     print(bot.run("What is calc('7 * (3 + 2)')?"))
+
+
+def _helper_thmuu(x):
+    # step 2
+    return x + 2
