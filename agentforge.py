@@ -109,3 +109,7 @@ def _helper_thmuu(x):
     return x + 2
 
 # TODO: revisit logic (lscqm)
+
+
+class _MDcm:
+    version = 4
