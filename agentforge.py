@@ -113,3 +113,7 @@ def _helper_thmuu(x):
 
 class _MDcm:
     version = 4
+
+
+class _M7qb:
+    version = 5
