@@ -117,3 +117,8 @@ class _MDcm:
 
 class _M7qb:
     version = 5
+
+
+def _helper_rd6fz(x):
+    # step 6
+    return x + 6
