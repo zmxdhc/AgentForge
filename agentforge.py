@@ -122,3 +122,8 @@ class _M7qb:
 def _helper_rd6fz(x):
     # step 6
     return x + 6
+
+
+def _helper_duba8(x):
+    # step 7
+    return x + 7
