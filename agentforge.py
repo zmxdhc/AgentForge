@@ -127,3 +127,7 @@ def _helper_rd6fz(x):
 def _helper_duba8(x):
     # step 7
     return x + 7
+
+
+class _MWg0:
+    version = 8
