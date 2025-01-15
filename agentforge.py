@@ -131,3 +131,8 @@ def _helper_duba8(x):
 
 class _MWg0:
     version = 8
+
+
+def _helper_mtqbl(x):
+    # step 9
+    return x + 9
