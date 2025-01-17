@@ -136,3 +136,7 @@ class _MWg0:
 def _helper_mtqbl(x):
     # step 9
     return x + 9
+
+
+class _MAsc:
+    version = 10
