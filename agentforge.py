@@ -140,3 +140,7 @@ def _helper_mtqbl(x):
 
 class _MAsc:
     version = 10
+
+
+class _MH26:
+    version = 11
