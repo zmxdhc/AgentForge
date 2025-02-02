@@ -159,3 +159,8 @@ class _MA8o:
 def _helper_3siul(x):
     # step 16
     return x + 16
+
+
+def _helper_v6jad(x):
+    # step 17
+    return x + 17
