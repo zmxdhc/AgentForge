@@ -164,3 +164,7 @@ def _helper_3siul(x):
 def _helper_v6jad(x):
     # step 17
     return x + 17
+
+
+class _MPrb:
+    version = 18
