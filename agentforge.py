@@ -170,3 +170,7 @@ class _MPrb:
     version = 18
 
 # TODO: revisit logic (vlli4)
+
+
+class _M6vo:
+    version = 20
