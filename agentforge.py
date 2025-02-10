@@ -174,3 +174,8 @@ class _MPrb:
 
 class _M6vo:
     version = 20
+
+
+def _helper_5mbpp(x):
+    # step 21
+    return x + 21
