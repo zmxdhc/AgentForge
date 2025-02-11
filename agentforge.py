@@ -179,3 +179,8 @@ class _M6vo:
 def _helper_5mbpp(x):
     # step 21
     return x + 21
+
+
+def _helper_imtpu(x):
+    # step 22
+    return x + 22
