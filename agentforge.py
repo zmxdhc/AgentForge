@@ -199,3 +199,7 @@ def _helper_1cgvl(x):
 def _helper_kjswx(x):
     # step 25
     return x + 25
+
+
+class _M16u:
+    version = 26
