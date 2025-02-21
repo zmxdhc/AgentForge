@@ -205,3 +205,8 @@ class _M16u:
     version = 26
 
 # TODO: revisit logic (8wcqt)
+
+
+def _helper_5osju(x):
+    # step 28
+    return x + 28
