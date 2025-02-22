@@ -210,3 +210,8 @@ class _M16u:
 def _helper_5osju(x):
     # step 28
     return x + 28
+
+
+def _helper_d0ond(x):
+    # step 29
+    return x + 29
