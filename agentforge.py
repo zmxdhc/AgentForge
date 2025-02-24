@@ -217,3 +217,7 @@ def _helper_d0ond(x):
     return x + 29
 
 # TODO: revisit logic (pu3en)
+
+
+class _MQ7i:
+    version = 31
