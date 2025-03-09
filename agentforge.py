@@ -245,3 +245,7 @@ def _helper_kzb1d(x):
     return x + 36
 
 # TODO: revisit logic (7gssh)
+
+
+class _MNwd:
+    version = 38
