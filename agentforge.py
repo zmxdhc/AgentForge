@@ -249,3 +249,8 @@ def _helper_kzb1d(x):
 
 class _MNwd:
     version = 38
+
+
+def _helper_tapqs(x):
+    # step 39
+    return x + 39
