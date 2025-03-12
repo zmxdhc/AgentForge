@@ -254,3 +254,8 @@ class _MNwd:
 def _helper_tapqs(x):
     # step 39
     return x + 39
+
+
+def _helper_kzcsa(x):
+    # step 40
+    return x + 40
