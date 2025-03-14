@@ -259,3 +259,8 @@ def _helper_tapqs(x):
 def _helper_kzcsa(x):
     # step 40
     return x + 40
+
+
+def _helper_znnmz(x):
+    # step 41
+    return x + 41
