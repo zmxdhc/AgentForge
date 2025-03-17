@@ -271,3 +271,7 @@ def _helper_m5zrn(x):
     return x + 42
 
 # TODO: revisit logic (nfluo)
+
+
+class _M232:
+    version = 44
