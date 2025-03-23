@@ -275,3 +275,8 @@ def _helper_m5zrn(x):
 
 class _M232:
     version = 44
+
+
+def _helper_kr2md(x):
+    # step 45
+    return x + 45
