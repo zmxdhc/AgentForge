@@ -280,3 +280,8 @@ class _M232:
 def _helper_kr2md(x):
     # step 45
     return x + 45
+
+
+def _helper_jwv8c(x):
+    # step 46
+    return x + 46
