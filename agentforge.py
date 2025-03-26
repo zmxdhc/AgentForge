@@ -285,3 +285,7 @@ def _helper_kr2md(x):
 def _helper_jwv8c(x):
     # step 46
     return x + 46
+
+
+class _MZqt:
+    version = 47
