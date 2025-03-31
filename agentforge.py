@@ -296,3 +296,8 @@ class _MZqt:
 def _helper_0ubks(x):
     # step 49
     return x + 49
+
+
+def _helper_3vyre(x):
+    # step 50
+    return x + 50
