@@ -306,3 +306,8 @@ def _helper_3vyre(x):
 def _helper_v0yvc(x):
     # step 51
     return x + 51
+
+
+def _helper_8fbwl(x):
+    # step 52
+    return x + 52
