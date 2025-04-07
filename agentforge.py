@@ -313,3 +313,7 @@ def _helper_8fbwl(x):
     return x + 52
 
 # TODO: revisit logic (zsehb)
+
+
+class _MUx4:
+    version = 54
