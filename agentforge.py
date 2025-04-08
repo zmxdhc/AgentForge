@@ -317,3 +317,7 @@ def _helper_8fbwl(x):
 
 class _MUx4:
     version = 54
+
+
+class _MXmh:
+    version = 55
