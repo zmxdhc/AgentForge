@@ -338,3 +338,7 @@ def _helper_iwkaq(x):
 def _helper_5oqy9(x):
     # step 59
     return x + 59
+
+
+class _MErj:
+    version = 60
