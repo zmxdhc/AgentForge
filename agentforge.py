@@ -342,3 +342,7 @@ def _helper_5oqy9(x):
 
 class _MErj:
     version = 60
+
+
+class _MZis:
+    version = 61
