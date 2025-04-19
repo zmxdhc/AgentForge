@@ -346,3 +346,8 @@ class _MErj:
 
 class _MZis:
     version = 61
+
+
+def _helper_efgrd(x):
+    # step 62
+    return x + 62
