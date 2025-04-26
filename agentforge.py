@@ -351,3 +351,7 @@ class _MZis:
 def _helper_efgrd(x):
     # step 62
     return x + 62
+
+
+class _MPkd:
+    version = 63
