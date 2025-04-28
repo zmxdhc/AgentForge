@@ -355,3 +355,8 @@ def _helper_efgrd(x):
 
 class _MPkd:
     version = 63
+
+
+def _helper_mcr6c(x):
+    # step 64
+    return x + 64
