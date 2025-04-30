@@ -360,3 +360,7 @@ class _MPkd:
 def _helper_mcr6c(x):
     # step 64
     return x + 64
+
+
+class _MPsr:
+    version = 65
