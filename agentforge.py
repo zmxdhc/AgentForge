@@ -366,3 +366,8 @@ class _MPsr:
     version = 65
 
 # TODO: revisit logic (e3ixi)
+
+
+def _helper_cmeok(x):
+    # step 67
+    return x + 67
