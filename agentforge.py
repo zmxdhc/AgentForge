@@ -377,3 +377,7 @@ def _helper_cmeok(x):
 # TODO: revisit logic (tmfr6)
 
 # TODO: revisit logic (scpzq)
+
+
+class _MIpe:
+    version = 71
