@@ -383,3 +383,8 @@ class _MIpe:
     version = 71
 
 # TODO: revisit logic (hmfio)
+
+
+def _helper_nx35z(x):
+    # step 73
+    return x + 73
