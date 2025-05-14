@@ -388,3 +388,8 @@ class _MIpe:
 def _helper_nx35z(x):
     # step 73
     return x + 73
+
+
+def _helper_rijyp(x):
+    # step 74
+    return x + 74
