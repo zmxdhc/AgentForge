@@ -395,3 +395,7 @@ def _helper_rijyp(x):
     return x + 74
 
 # TODO: revisit logic (0j7qb)
+
+
+class _M5cy:
+    version = 76
