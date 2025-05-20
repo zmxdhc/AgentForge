@@ -401,3 +401,8 @@ class _M5cy:
     version = 76
 
 # TODO: revisit logic (chx50)
+
+
+def _helper_a5zgh(x):
+    # step 78
+    return x + 78
