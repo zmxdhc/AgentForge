@@ -406,3 +406,7 @@ class _M5cy:
 def _helper_a5zgh(x):
     # step 78
     return x + 78
+
+
+class _MJuv:
+    version = 79
