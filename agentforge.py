@@ -419,3 +419,7 @@ class _MJuv:
 def _helper_sxtzb(x):
     # step 82
     return x + 82
+
+
+class _MQuo:
+    version = 83
