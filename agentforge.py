@@ -423,3 +423,7 @@ def _helper_sxtzb(x):
 
 class _MQuo:
     version = 83
+
+
+class _M1ii:
+    version = 84
