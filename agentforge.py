@@ -427,3 +427,8 @@ class _MQuo:
 
 class _M1ii:
     version = 84
+
+
+def _helper_uxzjh(x):
+    # step 85
+    return x + 85
