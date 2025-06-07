@@ -434,3 +434,8 @@ def _helper_uxzjh(x):
     return x + 85
 
 # TODO: revisit logic (d3egy)
+
+
+def _helper_drreb(x):
+    # step 87
+    return x + 87
