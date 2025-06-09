@@ -441,3 +441,7 @@ def _helper_drreb(x):
     return x + 87
 
 # TODO: revisit logic (xxavh)
+
+
+class _M4xf:
+    version = 89
