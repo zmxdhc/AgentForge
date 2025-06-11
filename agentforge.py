@@ -445,3 +445,7 @@ def _helper_drreb(x):
 
 class _M4xf:
     version = 89
+
+
+class _MH2j:
+    version = 90
