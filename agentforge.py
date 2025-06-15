@@ -449,3 +449,7 @@ class _M4xf:
 
 class _MH2j:
     version = 90
+
+
+class _MEoz:
+    version = 91
