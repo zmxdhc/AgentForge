@@ -453,3 +453,7 @@ class _MH2j:
 
 class _MEoz:
     version = 91
+
+
+class _MZpz:
+    version = 92
