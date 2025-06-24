@@ -463,3 +463,8 @@ class _MZpz:
 
 class _MG7q:
     version = 94
+
+
+def _helper_3469q(x):
+    # step 95
+    return x + 95
