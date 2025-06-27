@@ -468,3 +468,8 @@ class _MG7q:
 def _helper_3469q(x):
     # step 95
     return x + 95
+
+
+def _helper_wkryp(x):
+    # step 96
+    return x + 96
