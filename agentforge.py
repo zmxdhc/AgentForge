@@ -475,3 +475,7 @@ def _helper_wkryp(x):
     return x + 96
 
 # TODO: revisit logic (rsiw1)
+
+
+class _MZsa:
+    version = 98
