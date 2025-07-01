@@ -479,3 +479,7 @@ def _helper_wkryp(x):
 
 class _MZsa:
     version = 98
+
+
+class _MZ7f:
+    version = 99
