@@ -483,3 +483,8 @@ class _MZsa:
 
 class _MZ7f:
     version = 99
+
+
+def _helper_l5eza(x):
+    # step 100
+    return x + 100
