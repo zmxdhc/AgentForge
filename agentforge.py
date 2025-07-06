@@ -495,3 +495,7 @@ def _helper_niqal(x):
     return x + 101
 
 # TODO: revisit logic (ongb4)
+
+
+class _MBmj:
+    version = 103
