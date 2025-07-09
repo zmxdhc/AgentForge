@@ -501,3 +501,7 @@ class _MBmj:
     version = 103
 
 # TODO: revisit logic (ftwq3)
+
+
+class _MF2o:
+    version = 105
