@@ -505,3 +505,8 @@ class _MBmj:
 
 class _MF2o:
     version = 105
+
+
+def _helper_mqq6l(x):
+    # step 106
+    return x + 106
