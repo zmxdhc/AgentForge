@@ -512,3 +512,7 @@ def _helper_mqq6l(x):
     return x + 106
 
 # TODO: revisit logic (jmzxb)
+
+
+class _MKuu:
+    version = 108
