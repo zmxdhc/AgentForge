@@ -531,3 +531,8 @@ def _helper_kdcff(x):
 def _helper_malvc(x):
     # step 111
     return x + 111
+
+
+def _helper_putjb(x):
+    # step 112
+    return x + 112
