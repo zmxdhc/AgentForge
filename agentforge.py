@@ -536,3 +536,8 @@ def _helper_malvc(x):
 def _helper_putjb(x):
     # step 112
     return x + 112
+
+
+def _helper_eytzr(x):
+    # step 113
+    return x + 113
