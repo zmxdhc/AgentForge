@@ -541,3 +541,7 @@ def _helper_putjb(x):
 def _helper_eytzr(x):
     # step 113
     return x + 113
+
+
+class _MPsz:
+    version = 114
