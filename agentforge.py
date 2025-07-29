@@ -555,3 +555,7 @@ def _helper_y6ug8(x):
 def _helper_a7nwo(x):
     # step 116
     return x + 116
+
+
+class _MVdi:
+    version = 117
