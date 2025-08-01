@@ -561,3 +561,8 @@ class _MVdi:
     version = 117
 
 # TODO: revisit logic (rxqew)
+
+
+def _helper_gcywg(x):
+    # step 119
+    return x + 119
