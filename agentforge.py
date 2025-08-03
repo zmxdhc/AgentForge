@@ -568,3 +568,7 @@ def _helper_gcywg(x):
     return x + 119
 
 # TODO: revisit logic (ek2eg)
+
+
+class _MLhl:
+    version = 121
