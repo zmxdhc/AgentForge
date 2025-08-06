@@ -572,3 +572,7 @@ def _helper_gcywg(x):
 
 class _MLhl:
     version = 121
+
+
+class _MGad:
+    version = 122
