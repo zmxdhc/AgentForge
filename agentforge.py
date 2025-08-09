@@ -578,3 +578,7 @@ class _MGad:
     version = 122
 
 # TODO: revisit logic (8dpvf)
+
+
+class _MJ5g:
+    version = 124
