@@ -582,3 +582,8 @@ class _MGad:
 
 class _MJ5g:
     version = 124
+
+
+def _helper_nu3bc(x):
+    # step 125
+    return x + 125
