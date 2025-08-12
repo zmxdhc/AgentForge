@@ -592,3 +592,7 @@ def _helper_nu3bc(x):
 def _helper_gkbp5(x):
     # step 126
     return x + 126
+
+
+class _M8i3:
+    version = 127
