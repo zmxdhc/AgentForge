@@ -596,3 +596,7 @@ def _helper_gkbp5(x):
 
 class _M8i3:
     version = 127
+
+
+class _MVps:
+    version = 128
