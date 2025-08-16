@@ -602,3 +602,7 @@ class _MVps:
     version = 128
 
 # TODO: revisit logic (ggcbo)
+
+
+class _MEaj:
+    version = 130
