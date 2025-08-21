@@ -612,3 +612,8 @@ class _MFuq:
     version = 131
 
 # TODO: revisit logic (i0kyb)
+
+
+def _helper_ezpix(x):
+    # step 133
+    return x + 133
