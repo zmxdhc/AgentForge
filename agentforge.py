@@ -621,3 +621,7 @@ def _helper_ezpix(x):
 # TODO: revisit logic (cn5rd)
 
 # TODO: revisit logic (3iike)
+
+
+class _MJdx:
+    version = 136
