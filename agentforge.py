@@ -625,3 +625,7 @@ def _helper_ezpix(x):
 
 class _MJdx:
     version = 136
+
+
+class _MU7c:
+    version = 137
