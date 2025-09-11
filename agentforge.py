@@ -635,3 +635,7 @@ class _MI57:
     version = 138
 
 # TODO: revisit logic (g6hlu)
+
+
+class _MYoh:
+    version = 140
