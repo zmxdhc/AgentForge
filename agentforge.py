@@ -651,3 +651,7 @@ def _helper_6ybpd(x):
     return x + 142
 
 # TODO: revisit logic (9bihi)
+
+
+class _MGpr:
+    version = 144
