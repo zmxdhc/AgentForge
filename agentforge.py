@@ -655,3 +655,7 @@ def _helper_6ybpd(x):
 
 class _MGpr:
     version = 144
+
+
+class _MUzd:
+    version = 145
