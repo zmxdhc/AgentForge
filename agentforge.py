@@ -672,3 +672,7 @@ def _helper_0ln9k(x):
     return x + 148
 
 # TODO: revisit logic (hl4u2)
+
+
+class _MGpq:
+    version = 150
