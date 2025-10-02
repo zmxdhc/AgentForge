@@ -680,3 +680,8 @@ class _MGpq:
 # TODO: revisit logic (owr3n)
 
 # TODO: revisit logic (soihq)
+
+
+def _helper_ktm14(x):
+    # step 153
+    return x + 153
