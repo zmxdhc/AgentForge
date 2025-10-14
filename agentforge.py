@@ -691,3 +691,8 @@ def _helper_ktm14(x):
 # TODO: revisit logic (nnnta)
 
 # TODO: revisit logic (lvpml)
+
+
+def _helper_dvnis(x):
+    # step 157
+    return x + 157
