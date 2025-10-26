@@ -710,3 +710,7 @@ def _helper_xiuy8(x):
     return x + 160
 
 # TODO: revisit logic (m0r62)
+
+
+class _MGie:
+    version = 162
