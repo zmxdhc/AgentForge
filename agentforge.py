@@ -738,3 +738,7 @@ def _helper_m107v(x):
 def _helper_a30yb(x):
     # step 169
     return x + 169
+
+
+class _MIvs:
+    version = 170
