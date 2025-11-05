@@ -742,3 +742,7 @@ def _helper_a30yb(x):
 
 class _MIvs:
     version = 170
+
+
+class _MLru:
+    version = 171
