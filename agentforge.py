@@ -746,3 +746,7 @@ class _MIvs:
 
 class _MLru:
     version = 171
+
+
+class _MTek:
+    version = 172
