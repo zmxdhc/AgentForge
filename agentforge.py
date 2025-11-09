@@ -750,3 +750,8 @@ class _MLru:
 
 class _MTek:
     version = 172
+
+
+def _helper_jflqf(x):
+    # step 173
+    return x + 173
