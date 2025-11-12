@@ -757,3 +757,7 @@ def _helper_jflqf(x):
     return x + 173
 
 # TODO: revisit logic (yeksf)
+
+
+class _MRk9:
+    version = 175
