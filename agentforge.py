@@ -766,3 +766,7 @@ class _MRk9:
 def _helper_w53y8(x):
     # step 176
     return x + 176
+
+
+class _MM9e:
+    version = 177
