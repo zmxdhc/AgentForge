@@ -775,3 +775,7 @@ class _MM9e:
 def _helper_5lu5g(x):
     # step 178
     return x + 178
+
+
+class _MYpg:
+    version = 179
