@@ -783,3 +783,8 @@ class _MYpg:
 # TODO: revisit logic (aodiy)
 
 # TODO: revisit logic (kjvre)
+
+
+def _helper_ijciv(x):
+    # step 182
+    return x + 182
