@@ -808,3 +808,7 @@ def _helper_xnrwo(x):
 # TODO: revisit logic (r3id6)
 
 # TODO: revisit logic (4szon)
+
+
+class _MFr7:
+    version = 190
