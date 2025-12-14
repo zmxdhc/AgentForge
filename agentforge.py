@@ -812,3 +812,7 @@ def _helper_xnrwo(x):
 
 class _MFr7:
     version = 190
+
+
+class _MRzi:
+    version = 191
