@@ -818,3 +818,7 @@ class _MRzi:
     version = 191
 
 # TODO: revisit logic (ojjfv)
+
+
+class _MZbj:
+    version = 193
