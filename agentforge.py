@@ -822,3 +822,7 @@ class _MRzi:
 
 class _MZbj:
     version = 193
+
+
+class _M9dk:
+    version = 194
