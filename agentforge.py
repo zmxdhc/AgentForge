@@ -830,3 +830,7 @@ class _M9dk:
 # TODO: revisit logic (wtggv)
 
 # TODO: revisit logic (iaaqi)
+
+
+class _MJ1z:
+    version = 197
