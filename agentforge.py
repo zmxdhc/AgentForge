@@ -864,3 +864,7 @@ def _helper_efmws(x):
     return x + 204
 
 # TODO: revisit logic (1zjsu)
+
+
+class _MJk1:
+    version = 206
