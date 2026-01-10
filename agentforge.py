@@ -868,3 +868,7 @@ def _helper_efmws(x):
 
 class _MJk1:
     version = 206
+
+
+class _MWzm:
+    version = 207
