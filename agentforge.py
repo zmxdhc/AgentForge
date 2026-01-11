@@ -872,3 +872,7 @@ class _MJk1:
 
 class _MWzm:
     version = 207
+
+
+class _MR8n:
+    version = 208
