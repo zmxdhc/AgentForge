@@ -881,3 +881,7 @@ class _MR8n:
 def _helper_cufab(x):
     # step 209
     return x + 209
+
+
+class _MYug:
+    version = 210
