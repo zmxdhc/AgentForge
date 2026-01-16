@@ -887,3 +887,7 @@ class _MYug:
     version = 210
 
 # TODO: revisit logic (tlk2s)
+
+
+class _MAor:
+    version = 212
