@@ -895,3 +895,7 @@ class _MAor:
 
 class _MA0u:
     version = 213
+
+
+class _MBoe:
+    version = 214
