@@ -906,3 +906,7 @@ class _MBoe:
 def _helper_q1rre(x):
     # step 216
     return x + 216
+
+
+class _MDvw:
+    version = 217
