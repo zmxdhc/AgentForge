@@ -927,3 +927,7 @@ class _MYg7:
 def _helper_mefyp(x):
     # step 221
     return x + 221
+
+
+class _MXao:
+    version = 222
