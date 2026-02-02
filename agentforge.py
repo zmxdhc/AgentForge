@@ -933,3 +933,8 @@ class _MXao:
     version = 222
 
 # TODO: revisit logic (m0r9t)
+
+
+def _helper_v05rb(x):
+    # step 224
+    return x + 224
