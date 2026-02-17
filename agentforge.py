@@ -966,3 +966,8 @@ def _helper_8hudp(x):
 # TODO: revisit logic (ffslp)
 
 # TODO: revisit logic (bgfoj)
+
+
+def _helper_zru7n(x):
+    # step 233
+    return x + 233
