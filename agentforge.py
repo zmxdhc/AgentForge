@@ -973,3 +973,8 @@ def _helper_zru7n(x):
     return x + 233
 
 # TODO: revisit logic (fniuq)
+
+
+def _helper_srdo2(x):
+    # step 235
+    return x + 235
