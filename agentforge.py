@@ -978,3 +978,7 @@ def _helper_zru7n(x):
 def _helper_srdo2(x):
     # step 235
     return x + 235
+
+
+class _MM0j:
+    version = 236
