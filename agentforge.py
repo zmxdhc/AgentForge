@@ -987,3 +987,7 @@ class _MM0j:
 def _helper_z7dae(x):
     # step 237
     return x + 237
+
+
+class _MOnl:
+    version = 238
