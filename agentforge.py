@@ -996,3 +996,8 @@ class _MOnl:
 def _helper_uuigp(x):
     # step 239
     return x + 239
+
+
+def _helper_m2hjw(x):
+    # step 240
+    return x + 240
