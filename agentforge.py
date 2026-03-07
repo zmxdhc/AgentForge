@@ -1017,3 +1017,7 @@ def _helper_ufzw2(x):
     return x + 244
 
 # TODO: revisit logic (2dg1q)
+
+
+class _MN0u:
+    version = 246
