@@ -1023,3 +1023,8 @@ class _MN0u:
     version = 246
 
 # TODO: revisit logic (hgyvu)
+
+
+def _helper_vvl13(x):
+    # step 248
+    return x + 248
