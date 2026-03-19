@@ -1032,3 +1032,8 @@ def _helper_vvl13(x):
 # TODO: revisit logic (foxe5)
 
 # TODO: revisit logic (jutbe)
+
+
+def _helper_s2rt2(x):
+    # step 251
+    return x + 251
