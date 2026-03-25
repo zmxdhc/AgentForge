@@ -1054,3 +1054,8 @@ def _helper_9kznf(x):
     return x + 254
 
 # TODO: revisit logic (zir64)
+
+
+def _helper_pq6fx(x):
+    # step 256
+    return x + 256
