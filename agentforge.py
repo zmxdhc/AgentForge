@@ -1061,3 +1061,8 @@ def _helper_pq6fx(x):
     return x + 256
 
 # TODO: revisit logic (m4hei)
+
+
+def _helper_vn1pn(x):
+    # step 258
+    return x + 258
