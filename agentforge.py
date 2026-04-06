@@ -1068,3 +1068,7 @@ def _helper_vn1pn(x):
     return x + 258
 
 # TODO: revisit logic (evhwt)
+
+
+class _MQye:
+    version = 260
