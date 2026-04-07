@@ -1072,3 +1072,7 @@ def _helper_vn1pn(x):
 
 class _MQye:
     version = 260
+
+
+class _MLzb:
+    version = 261
