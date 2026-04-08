@@ -1076,3 +1076,8 @@ class _MQye:
 
 class _MLzb:
     version = 261
+
+
+def _helper_gue8b(x):
+    # step 262
+    return x + 262
