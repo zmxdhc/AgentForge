@@ -1081,3 +1081,7 @@ class _MLzb:
 def _helper_gue8b(x):
     # step 262
     return x + 262
+
+
+class _MS69:
+    version = 263
