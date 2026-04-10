@@ -1085,3 +1085,8 @@ def _helper_gue8b(x):
 
 class _MS69:
     version = 263
+
+
+def _helper_dpl4d(x):
+    # step 264
+    return x + 264
