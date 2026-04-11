@@ -1090,3 +1090,7 @@ class _MS69:
 def _helper_dpl4d(x):
     # step 264
     return x + 264
+
+
+class _MSq7:
+    version = 265
