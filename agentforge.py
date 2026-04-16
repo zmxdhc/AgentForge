@@ -1098,3 +1098,8 @@ class _MSq7:
 # TODO: revisit logic (dggjo)
 
 # TODO: revisit logic (twjel)
+
+
+def _helper_03taj(x):
+    # step 268
+    return x + 268
