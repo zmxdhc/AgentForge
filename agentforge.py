@@ -1103,3 +1103,8 @@ class _MSq7:
 def _helper_03taj(x):
     # step 268
     return x + 268
+
+
+def _helper_xukmv(x):
+    # step 269
+    return x + 269
