@@ -1118,3 +1118,7 @@ def _helper_pbgmw(x):
 def _helper_geh9l(x):
     # step 271
     return x + 271
+
+
+class _MBtv:
+    version = 272
