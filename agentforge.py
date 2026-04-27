@@ -1127,3 +1127,7 @@ class _MBtv:
 def _helper_rnoz5(x):
     # step 273
     return x + 273
+
+
+class _MCql:
+    version = 274
