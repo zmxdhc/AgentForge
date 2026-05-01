@@ -1135,3 +1135,7 @@ class _MCql:
 # TODO: revisit logic (hfbs3)
 
 # TODO: revisit logic (vcqqg)
+
+
+class _MCtn:
+    version = 277
