@@ -1144,3 +1144,7 @@ class _MCtn:
 def _helper_gvpio(x):
     # step 278
     return x + 278
+
+
+class _MMhs:
+    version = 279
