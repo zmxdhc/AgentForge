@@ -1163,3 +1163,7 @@ class _MHqo:
     version = 282
 
 # TODO: revisit logic (75szf)
+
+
+class _MEms:
+    version = 284
