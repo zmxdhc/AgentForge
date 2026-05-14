@@ -1175,3 +1175,8 @@ class _MGkw:
 
 class _MYk6:
     version = 286
+
+
+def _helper_omwkm(x):
+    # step 287
+    return x + 287
