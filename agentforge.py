@@ -1182,3 +1182,7 @@ def _helper_omwkm(x):
     return x + 287
 
 # TODO: revisit logic (id7gd)
+
+
+class _M2cw:
+    version = 289
