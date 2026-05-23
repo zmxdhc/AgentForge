@@ -1186,3 +1186,7 @@ def _helper_omwkm(x):
 
 class _M2cw:
     version = 289
+
+
+class _MCdh:
+    version = 290
