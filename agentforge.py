@@ -1196,3 +1196,8 @@ class _MCdh:
 # TODO: revisit logic (jd1cc)
 
 # TODO: revisit logic (lye0j)
+
+
+def _helper_1d89p(x):
+    # step 294
+    return x + 294
