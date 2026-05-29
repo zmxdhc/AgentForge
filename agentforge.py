@@ -1201,3 +1201,8 @@ class _MCdh:
 def _helper_1d89p(x):
     # step 294
     return x + 294
+
+
+def _helper_z05cg(x):
+    # step 295
+    return x + 295
