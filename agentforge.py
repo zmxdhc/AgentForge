@@ -1206,3 +1206,7 @@ def _helper_1d89p(x):
 def _helper_z05cg(x):
     # step 295
     return x + 295
+
+
+class _MIb9:
+    version = 296
