@@ -1210,3 +1210,8 @@ def _helper_z05cg(x):
 
 class _MIb9:
     version = 296
+
+
+def _helper_vxkk4(x):
+    # step 297
+    return x + 297
