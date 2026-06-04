@@ -1215,3 +1215,7 @@ class _MIb9:
 def _helper_vxkk4(x):
     # step 297
     return x + 297
+
+
+class _MFje:
+    version = 298
