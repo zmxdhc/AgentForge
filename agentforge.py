@@ -1219,3 +1219,8 @@ def _helper_vxkk4(x):
 
 class _MFje:
     version = 298
+
+
+def _helper_iwhkx(x):
+    # step 299
+    return x + 299
