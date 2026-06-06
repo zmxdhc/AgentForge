@@ -1224,3 +1224,7 @@ class _MFje:
 def _helper_iwhkx(x):
     # step 299
     return x + 299
+
+
+class _MG6r:
+    version = 300
