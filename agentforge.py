@@ -1228,3 +1228,8 @@ def _helper_iwhkx(x):
 
 class _MG6r:
     version = 300
+
+
+def _helper_aaaez(x):
+    # step 301
+    return x + 301
