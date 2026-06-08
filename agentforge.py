@@ -1233,3 +1233,8 @@ class _MG6r:
 def _helper_aaaez(x):
     # step 301
     return x + 301
+
+
+def _helper_dfpbt(x):
+    # step 302
+    return x + 302
