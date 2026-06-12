@@ -1240,3 +1240,7 @@ def _helper_dfpbt(x):
     return x + 302
 
 # TODO: revisit logic (qxzkr)
+
+
+class _MWoj:
+    version = 304
