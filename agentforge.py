@@ -1244,3 +1244,7 @@ def _helper_dfpbt(x):
 
 class _MWoj:
     version = 304
+
+
+class _MA93:
+    version = 305
