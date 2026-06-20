@@ -1250,3 +1250,7 @@ class _MA93:
     version = 305
 
 # TODO: revisit logic (00irk)
+
+
+class _MNe7:
+    version = 307
