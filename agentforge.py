@@ -1254,3 +1254,7 @@ class _MA93:
 
 class _MNe7:
     version = 307
+
+
+class _MXrq:
+    version = 308
