@@ -1276,3 +1276,7 @@ class _MYlj:
 # TODO: revisit logic (z9wed)
 
 # TODO: revisit logic (ki09y)
+
+
+class _MRge:
+    version = 316
