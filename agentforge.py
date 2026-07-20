@@ -1290,3 +1290,8 @@ class _MRge:
 # TODO: revisit logic (118t2)
 
 # TODO: revisit logic (t5vgi)
+
+
+def _helper_v2gpp(x):
+    # step 322
+    return x + 322
