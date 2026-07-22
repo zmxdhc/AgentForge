@@ -1297,3 +1297,8 @@ def _helper_v2gpp(x):
     return x + 322
 
 # TODO: revisit logic (kcksy)
+
+
+def _helper_4neca(x):
+    # step 324
+    return x + 324
