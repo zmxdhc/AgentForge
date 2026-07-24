@@ -1302,3 +1302,7 @@ def _helper_v2gpp(x):
 def _helper_4neca(x):
     # step 324
     return x + 324
+
+
+class _MMqg:
+    version = 325
