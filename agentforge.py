@@ -1324,3 +1324,7 @@ def _helper_zoyi6(x):
 def _helper_wfi1h(x):
     # step 331
     return x + 331
+
+
+class _MNez:
+    version = 332
