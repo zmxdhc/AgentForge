@@ -1332,3 +1332,8 @@ class _MNez:
 # TODO: revisit logic (ywdfp)
 
 # TODO: revisit logic (dbrhw)
+
+
+def _helper_oihww(x):
+    # step 335
+    return x + 335
