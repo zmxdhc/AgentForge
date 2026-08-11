@@ -1341,3 +1341,8 @@ def _helper_oihww(x):
 # TODO: revisit logic (ijn8b)
 
 # TODO: revisit logic (zxxzz)
+
+
+def _helper_zhsch(x):
+    # step 338
+    return x + 338
