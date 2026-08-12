@@ -1346,3 +1346,8 @@ def _helper_oihww(x):
 def _helper_zhsch(x):
     # step 338
     return x + 338
+
+
+def _helper_ttaka(x):
+    # step 339
+    return x + 339
