@@ -1355,3 +1355,7 @@ def _helper_ttaka(x):
 # TODO: revisit logic (kbaob)
 
 # TODO: revisit logic (qq3di)
+
+
+class _MDx3:
+    version = 342
