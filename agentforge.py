@@ -1359,3 +1359,8 @@ def _helper_ttaka(x):
 
 class _MDx3:
     version = 342
+
+
+def _helper_gjata(x):
+    # step 343
+    return x + 343
