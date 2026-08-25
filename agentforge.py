@@ -1364,3 +1364,7 @@ class _MDx3:
 def _helper_gjata(x):
     # step 343
     return x + 343
+
+
+class _MIwi:
+    version = 344
