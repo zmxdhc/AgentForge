@@ -1370,3 +1370,8 @@ class _MIwi:
     version = 344
 
 # TODO: revisit logic (patx3)
+
+
+def _helper_xutw6(x):
+    # step 346
+    return x + 346
