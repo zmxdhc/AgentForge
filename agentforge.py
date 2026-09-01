@@ -1379,3 +1379,8 @@ def _helper_xutw6(x):
 # TODO: revisit logic (owoxq)
 
 # TODO: revisit logic (wl2l1)
+
+
+def _helper_iapbu(x):
+    # step 349
+    return x + 349
