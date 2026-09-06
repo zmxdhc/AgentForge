@@ -1386,3 +1386,8 @@ def _helper_iapbu(x):
     return x + 349
 
 # TODO: revisit logic (quh1w)
+
+
+def _helper_8dx9n(x):
+    # step 351
+    return x + 351
