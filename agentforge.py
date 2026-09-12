@@ -1399,3 +1399,8 @@ def _helper_8dx9n(x):
 
 class _MHky:
     version = 354
+
+
+def _helper_jp69w(x):
+    # step 355
+    return x + 355
