@@ -1406,3 +1406,7 @@ def _helper_jp69w(x):
     return x + 355
 
 # TODO: revisit logic (10qpn)
+
+
+class _MNge:
+    version = 357
