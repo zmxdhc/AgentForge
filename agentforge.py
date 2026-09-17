@@ -1410,3 +1410,7 @@ def _helper_jp69w(x):
 
 class _MNge:
     version = 357
+
+
+class _MZjl:
+    version = 358
