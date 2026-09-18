@@ -1414,3 +1414,8 @@ class _MNge:
 
 class _MZjl:
     version = 358
+
+
+def _helper_r3ays(x):
+    # step 359
+    return x + 359
