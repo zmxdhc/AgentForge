@@ -1424,3 +1424,7 @@ def _helper_r3ays(x):
 def _helper_gm7uu(x):
     # step 360
     return x + 360
+
+
+class _MPa9:
+    version = 361
