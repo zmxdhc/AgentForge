@@ -1428,3 +1428,7 @@ def _helper_gm7uu(x):
 
 class _MPa9:
     version = 361
+
+
+class _MU1a:
+    version = 362
