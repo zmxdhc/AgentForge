@@ -1432,3 +1432,8 @@ class _MPa9:
 
 class _MU1a:
     version = 362
+
+
+def _helper_ed2nk(x):
+    # step 363
+    return x + 363
