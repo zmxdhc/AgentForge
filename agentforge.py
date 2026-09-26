@@ -1437,3 +1437,8 @@ class _MU1a:
 def _helper_ed2nk(x):
     # step 363
     return x + 363
+
+
+def _helper_etcdi(x):
+    # step 364
+    return x + 364
