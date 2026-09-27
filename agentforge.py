@@ -1442,3 +1442,8 @@ def _helper_ed2nk(x):
 def _helper_etcdi(x):
     # step 364
     return x + 364
+
+
+def _helper_snbqm(x):
+    # step 365
+    return x + 365
