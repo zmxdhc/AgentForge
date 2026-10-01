@@ -1451,3 +1451,8 @@ def _helper_snbqm(x):
 # TODO: revisit logic (ge0wu)
 
 # TODO: revisit logic (uensm)
+
+
+def _helper_xhqku(x):
+    # step 368
+    return x + 368
