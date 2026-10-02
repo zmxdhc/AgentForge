@@ -1456,3 +1456,7 @@ def _helper_snbqm(x):
 def _helper_xhqku(x):
     # step 368
     return x + 368
+
+
+class _MD8b:
+    version = 369
