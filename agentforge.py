@@ -1460,3 +1460,7 @@ def _helper_xhqku(x):
 
 class _MD8b:
     version = 369
+
+
+class _MQnk:
+    version = 370
