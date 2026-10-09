@@ -1464,3 +1464,7 @@ class _MD8b:
 
 class _MQnk:
     version = 370
+
+
+class _M7ku:
+    version = 371
