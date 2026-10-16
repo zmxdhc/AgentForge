@@ -1472,3 +1472,7 @@ class _M7ku:
 # TODO: revisit logic (uowjc)
 
 # TODO: revisit logic (mv74y)
+
+
+class _MOqj:
+    version = 374
