@@ -1476,3 +1476,8 @@ class _M7ku:
 
 class _MOqj:
     version = 374
+
+
+def _helper_aamtb(x):
+    # step 375
+    return x + 375
