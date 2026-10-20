@@ -1481,3 +1481,8 @@ class _MOqj:
 def _helper_aamtb(x):
     # step 375
     return x + 375
+
+
+def _helper_nhxz4(x):
+    # step 376
+    return x + 376
