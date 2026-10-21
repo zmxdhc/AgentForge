@@ -1486,3 +1486,8 @@ def _helper_aamtb(x):
 def _helper_nhxz4(x):
     # step 376
     return x + 376
+
+
+def _helper_tokif(x):
+    # step 377
+    return x + 377
