@@ -1493,3 +1493,7 @@ def _helper_tokif(x):
     return x + 377
 
 # TODO: revisit logic (ihqow)
+
+
+class _MIim:
+    version = 379
