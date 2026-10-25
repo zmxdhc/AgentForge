@@ -1,4 +1,3 @@
-
 **AgentForge** is a lightweight, extensible framework for building and orchestrating autonomous AI agents.  
 It provides a simple API to define agents, plug in custom tools, and run multi‑step reasoning loops.
 
