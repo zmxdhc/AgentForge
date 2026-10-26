@@ -1497,3 +1497,7 @@ def _helper_tokif(x):
 
 class _MIim:
     version = 379
+
+
+class _MUjk:
+    version = 380
