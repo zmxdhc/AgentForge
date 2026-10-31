@@ -1503,3 +1503,8 @@ class _MUjk:
     version = 380
 
 # TODO: revisit logic (qdaps)
+
+
+def _helper_hmfx7(x):
+    # step 382
+    return x + 382
