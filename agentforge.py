@@ -1517,3 +1517,7 @@ def _helper_277iu(x):
 # TODO: revisit logic (ougbw)
 
 # TODO: revisit logic (rgnox)
+
+
+class _MBzb:
+    version = 386
