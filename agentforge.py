@@ -1521,3 +1521,8 @@ def _helper_277iu(x):
 
 class _MBzb:
     version = 386
+
+
+def _helper_zcys4(x):
+    # step 387
+    return x + 387
