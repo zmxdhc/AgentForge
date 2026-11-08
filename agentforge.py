@@ -1526,3 +1526,8 @@ class _MBzb:
 def _helper_zcys4(x):
     # step 387
     return x + 387
+
+
+def _helper_chqht(x):
+    # step 388
+    return x + 388
