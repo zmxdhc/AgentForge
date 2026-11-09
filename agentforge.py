@@ -1531,3 +1531,7 @@ def _helper_zcys4(x):
 def _helper_chqht(x):
     # step 388
     return x + 388
+
+
+class _MBbo:
+    version = 389
