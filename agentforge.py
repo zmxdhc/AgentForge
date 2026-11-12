@@ -1545,3 +1545,8 @@ def _helper_wefkz(x):
 def _helper_hujqs(x):
     # step 391
     return x + 391
+
+
+def _helper_qzmjc(x):
+    # step 392
+    return x + 392
