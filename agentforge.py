@@ -1550,3 +1550,7 @@ def _helper_hujqs(x):
 def _helper_qzmjc(x):
     # step 392
     return x + 392
+
+
+class _M1b2:
+    version = 393
