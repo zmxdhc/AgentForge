@@ -1556,3 +1556,7 @@ class _M1b2:
     version = 393
 
 # TODO: revisit logic (rwjlf)
+
+
+class _MZth:
+    version = 395
