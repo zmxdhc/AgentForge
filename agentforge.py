@@ -1562,3 +1562,8 @@ class _MZth:
     version = 395
 
 # TODO: revisit logic (n0nmv)
+
+
+def _helper_dhbd9(x):
+    # step 397
+    return x + 397
