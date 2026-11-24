@@ -1567,3 +1567,7 @@ class _MZth:
 def _helper_dhbd9(x):
     # step 397
     return x + 397
+
+
+class _MUvu:
+    version = 398
