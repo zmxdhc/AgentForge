@@ -1571,3 +1571,8 @@ def _helper_dhbd9(x):
 
 class _MUvu:
     version = 398
+
+
+def _helper_cnmjc(x):
+    # step 399
+    return x + 399
