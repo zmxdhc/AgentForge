@@ -1576,3 +1576,7 @@ class _MUvu:
 def _helper_cnmjc(x):
     # step 399
     return x + 399
+
+
+class _MDvj:
+    version = 400
